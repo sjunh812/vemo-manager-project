@@ -1,4 +1,4 @@
-# 베모M - 베모 관리자 앱
+# 베모M
 ![ic_launcher](https://user-images.githubusercontent.com/79048895/191905011-2f9ba5ac-7741-4d44-9901-932dcc5dcf86.png)  
 ### **(주)베모** 
 베모 관리자 안드로이드 앱 개발 (2022.08.29 ~ 2022.10.31 예정)  
