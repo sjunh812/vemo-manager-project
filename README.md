@@ -1,9 +1,10 @@
 # 베모M
-![ic_launcher](https://user-images.githubusercontent.com/79048895/191905011-2f9ba5ac-7741-4d44-9901-932dcc5dcf86.png)  
+<img src="https://user-images.githubusercontent.com/79048895/202397210-93386448-cb30-4742-bfa8-7fe05e193443.png" width="200" height="200" />  
+
 ### **(주)베모** 
 베모 관리자 안드로이드 앱 개발  
 - 1차 개발 : 2022.08.29 ~ 2022.10.31 (완료)  
-- 2차 개발 : 2022.11.01 ~ 2022.11.24 (진행중)  
+- 2차 개발 : 2022.11.01 ~ 2022.11.17 (완료)  
 <br>
 
 ## 🧑‍💻 담당 업무
@@ -14,7 +15,7 @@
 <br>
 
 ## 📷 스크린샷
-<img src="https://user-images.githubusercontent.com/79048895/201288254-f7287ec1-1d20-435c-832e-b14d4f1b84d8.jpg" width="250" height="500" /> <img src="https://user-images.githubusercontent.com/79048895/201288261-410cee55-9266-4fe7-b4c3-8baad88112c5.jpg" width="250" height="500" /> <img src="https://user-images.githubusercontent.com/79048895/201288272-69c5a43a-b855-4bca-ad22-fa3973db1fd7.jpg" width="250" height="500" /> <img src="https://user-images.githubusercontent.com/79048895/201288284-77064fc9-76f5-49b3-8e65-4b21c64a0719.jpg" width="250" height="500" /> <img src="https://user-images.githubusercontent.com/79048895/201288290-1751c3c1-2458-45c4-b690-11573ca1bec7.jpg" width="250" height="500" /> <img src="https://user-images.githubusercontent.com/79048895/201288302-4f444fa5-f0e8-407a-a834-aae35e9decf5.jpg" width="250" height="500" /> <img src="https://user-images.githubusercontent.com/79048895/201288307-ade28af0-636a-4520-9ab5-106991b8c71a.jpg" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/79048895/202397792-76173299-cc81-47a9-89d2-0975147310ed.png" width="250" height="500" /> <img src="https://user-images.githubusercontent.com/79048895/202397803-5314c70a-b3b1-4e4d-8a8f-54aa0709c099.png" width="250" height="500" /> <img src="https://user-images.githubusercontent.com/79048895/202397817-90afce40-115c-4219-b21a-dcc5013cd07f.png" width="250" height="500" /> <img src="https://user-images.githubusercontent.com/79048895/202397826-96f85cec-89de-4072-8d97-4f8ed2d89ab2.png" width="250" height="500" /> <img src="https://user-images.githubusercontent.com/79048895/202397834-926f2917-7d43-4311-a440-96e11699b833.png" width="250" height="500" />
 <br><br>
 
 ## 🔔 주요 기능
