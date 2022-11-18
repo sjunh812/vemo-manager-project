@@ -1,6 +1,5 @@
 # 베모M
-<img src="https://user-images.githubusercontent.com/79048895/202397210-93386448-cb30-4742-bfa8-7fe05e193443.png" width="200" height="200" />  
-
+![ic_launcher](https://user-images.githubusercontent.com/79048895/202590652-965fbd6f-0b2a-48d7-9911-3582b8a14b99.png)
 ### **(주)베모** 
 베모 관리자 안드로이드 앱 개발  
 - 1차 개발 : 2022.08.29 ~ 2022.10.31 (완료)  
