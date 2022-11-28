@@ -6,6 +6,9 @@
 - 2차 개발 : 2022.11.01 ~ 2022.11.17 (완료)  
 <br>
 
+[🎮 Play 스토어](https://play.google.com/store/apps/details?id=kr.co.vemo.vemoplusmanager)   
+<br>
+
 ## 🧑‍💻 담당 업무
 - UI/UX
 - Design
